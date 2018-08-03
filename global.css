@@ -1,0 +1,16 @@
+* {
+	font-family: monospace;
+	font-size: 20px;
+}
+
+a {
+	color: rgb(0, 0, 238);
+}
+
+a:active {
+	text-decoration: none;
+}
+
+img#profile {
+	margin: 50px 0;
+}
